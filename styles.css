@@ -1,0 +1,13 @@
+.done {
+    text-decoration: line-through;
+}
+
+.body {
+    background-color:#1f6998;
+    display: flexbox;
+    padding-left: 40%
+}
+
+h1 {
+    padding-top: 10%;
+}
